@@ -4,4 +4,4 @@ This project implements Particle Image Velocimetry (PIV) analysis across a serie
 
 It involved calculating relative velocities at different levels, starting with "particles" (individual sheep) up to the entire flock. The design process included both custom functions and built-in Matlab functions.
 
-The project contains a single Matlab live script, ECE533_Final_Project.mlx. It was run using MATLAB_R2020a on local machines. Also included is the PowerPoint file for the project report.
+The project contains a single Matlab live script, ECE533_Final_Project.mlx. It was run using MATLAB_R2020a on local machines. Also included is the PowerPoint file for the project report, as well as two figures showing the progress of the project and the final result for a single frame.
